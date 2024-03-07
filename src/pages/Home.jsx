@@ -7,21 +7,10 @@ export default function Home() {
             <a className="flex-sm-fill flex-grow-1 text-sm-left nav-link active">
               <h1>Lumia</h1>
             </a>
-            <a className="text-sm-right nav-link" href="contact.html">
-              Kontakta oss
-            </a>
           </nav>
         </header>
         <main>
           <div>
-            <input
-              className="flex-sm-fill text-sm-center nav-link"
-              type="text"
-              id="search"
-              placeholder="Type to search"
-              data-change="search"
-            />
-
             <div className="lamps">
               <div className="product clearfix">
                 <img src="https://miljogarden.se/wp-content/uploads/2022/02/Mirror-ball-gold-taklampa-pendel-polykarbonat-olika-storlekar-Tom-Dixon.jpg?q=85&amp;w=670&amp;h=447&amp;dpr=2" />
